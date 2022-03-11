@@ -67,7 +67,7 @@ class kmeans_clustering:
 Parametres saisis par l'utilisateur à savoir distance autour d'un noeud et nombre minimal de noeuds
 """""""""""
 
-K = 16
+K = 6
 repetition = 10
 
 ###################################################################################################
